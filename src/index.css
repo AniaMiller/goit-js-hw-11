@@ -1,0 +1,27 @@
+form {
+    margin: 0 auto;
+    width: 50%;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 14px;
+  }
+  
+  button {
+    background-color: #000;
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right;
+    margin-right: 0;
+    width: 8%;
+  }
